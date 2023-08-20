@@ -5,6 +5,9 @@ plugins {
 }
 
 android {
+    buildFeatures{
+        dataBinding true
+    }
     namespace 'com.shoykat.moviecatalogue'
     compileSdk 33
 
