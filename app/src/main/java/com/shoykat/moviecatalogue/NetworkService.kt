@@ -1,3 +1,4 @@
+/*
 package com.shoykat.moviecatalogue
 
 import com.shoykat.moviecatalogue.models.PopularModel
@@ -38,3 +39,4 @@ object NetworkService {
         retrofit.create(MovieServiceApi::class.java)
     }
 }
+*/
